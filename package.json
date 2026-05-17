@@ -23,7 +23,7 @@
   "author": "ShieldID-Solver",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.15.2",
     "chalk": "^4.1.2",
     "https-proxy-agent": "^7.0.2"
   },
